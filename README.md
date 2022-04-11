@@ -8,7 +8,7 @@ Clock App app is open-source  app for Android & ios. It is built with Dart on to
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 
-<p><img src="snapshot/rec.mp4" /></p>
+<p><img src="snapshot/recg.gif" /></p>
 <p align="center"><b>ClocK App </b></p>
 
 ##:rocket: youtube Tutorial
