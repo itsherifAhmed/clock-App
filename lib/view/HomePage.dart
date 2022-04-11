@@ -14,14 +14,13 @@ class HomePage extends GetView<Controller> {
         title: Text('Clock',
             style: Get.isDarkMode
                 ? GoogleFonts.poppins(
-                    
+                    color: Color(0xffF1F1F1),
                     fontSize: 24,
                     fontWeight: FontWeight.normal)
                 : GoogleFonts.poppins(
-
+                    color: Color(0xff686868),
                     fontSize: 24,
-                    fontWeight: FontWeight.normal)
-        ),
+                    fontWeight: FontWeight.normal)),
         centerTitle: true,
         elevation: 10,
         actions: [
