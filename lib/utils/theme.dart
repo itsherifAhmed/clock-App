@@ -3,8 +3,9 @@ import 'package:google_fonts/google_fonts.dart';
 
 class Themes {
   static final light = ThemeData.light().copyWith(
-
-    primaryColor: Color(0xffF6F6F6),
+  accentColor: Colors.red,
+    primaryColor: Colors.red,
+    brightness: Brightness.light,
     appBarTheme: const AppBarTheme(backgroundColor: Color(0xffF6F6F6),shadowColor: Color(0xff00000029),elevation: 3),
     textTheme: TextTheme(
       titleMedium:  GoogleFonts.poppins(fontSize: 24,color: Color(0xff686868))
